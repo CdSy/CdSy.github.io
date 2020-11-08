@@ -1,0 +1,118 @@
+{
+  "configVersion": 1,
+  "timestamp": 1567530186487,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/5.860f8ac8d96b6a3a59c0.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.52b4abb9bd0e215f3c4a.js",
+        "/polyfills-es5.122ced6d88ba6a6b350b.js",
+        "/polyfills.2d938c2725dce5a6a7bb.js",
+        "/runtime.56bceb7e23d9795a3898.js",
+        "/styles.a9deb352a15098371639.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/MaterialIcons-Regular.012cf6a10129e2275d79.woff",
+        "/MaterialIcons-Regular.570eb83859dc23dd0eec.woff2",
+        "/MaterialIcons-Regular.a37b0c01c0baf1888ca8.ttf",
+        "/MaterialIcons-Regular.e79bfd88537def476913.eot",
+        "/assets/gif/draw-scale.gif",
+        "/assets/gif/drop-scale.gif",
+        "/assets/gif/tuning.gif",
+        "/assets/guitar-pick.png",
+        "/assets/iconfont/MaterialIcons-Regular.eot",
+        "/assets/iconfont/MaterialIcons-Regular.ijmap",
+        "/assets/iconfont/MaterialIcons-Regular.svg",
+        "/assets/iconfont/MaterialIcons-Regular.ttf",
+        "/assets/iconfont/MaterialIcons-Regular.woff",
+        "/assets/iconfont/MaterialIcons-Regular.woff2",
+        "/assets/iconfont/README.md",
+        "/assets/iconfont/codepoints",
+        "/assets/iconfont/material-icons.css",
+        "/assets/icons/apple-touch-icon.png",
+        "/assets/icons/favicon-16x16.png",
+        "/assets/icons/favicon-32x32.png",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/icons/safari-pinned-tab.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/5.860f8ac8d96b6a3a59c0.js": "fd1195b397a6d61aaa2e8f2259cacc47e7a240cb",
+    "/MaterialIcons-Regular.012cf6a10129e2275d79.woff": "c6c953c2ccb2ca9abb21db8dbf473b5a435f0082",
+    "/MaterialIcons-Regular.570eb83859dc23dd0eec.woff2": "09963592e8c953cc7e14e3fb0a5b05d5042e8435",
+    "/MaterialIcons-Regular.a37b0c01c0baf1888ca8.ttf": "fc05de31234e0090f7ddc28ce1b23af4026cb1da",
+    "/MaterialIcons-Regular.e79bfd88537def476913.eot": "26fb8cecb5512223277b4d290a24492a0f09ede1",
+    "/assets/gif/draw-scale.gif": "446f61b51f93d4628f6beb1678a2093d43e442e7",
+    "/assets/gif/drop-scale.gif": "4b31bf7d42565a6de62afe2f21d6a7521858a232",
+    "/assets/gif/tuning.gif": "3a490819bd62fbf8e571691a8fd7a7dc42402e8f",
+    "/assets/guitar-pick.png": "3d7d3fd4d22ab6d4b6d8c8b1d3b365172fc725b8",
+    "/assets/iconfont/MaterialIcons-Regular.eot": "26fb8cecb5512223277b4d290a24492a0f09ede1",
+    "/assets/iconfont/MaterialIcons-Regular.ijmap": "df468e87685c24b2a5d431036d4d5a434efdc28e",
+    "/assets/iconfont/MaterialIcons-Regular.svg": "52ad95c4e0691e8c9b8ef97c551a9970eb498ca0",
+    "/assets/iconfont/MaterialIcons-Regular.ttf": "fc05de31234e0090f7ddc28ce1b23af4026cb1da",
+    "/assets/iconfont/MaterialIcons-Regular.woff": "c6c953c2ccb2ca9abb21db8dbf473b5a435f0082",
+    "/assets/iconfont/MaterialIcons-Regular.woff2": "09963592e8c953cc7e14e3fb0a5b05d5042e8435",
+    "/assets/iconfont/README.md": "867c099a181af04de39152d48aee013a01fcd1cd",
+    "/assets/iconfont/codepoints": "9f50ec0cced0115e7786e4e26b53ff35d2c0f0a0",
+    "/assets/iconfont/material-icons.css": "d45506350e35c369dca6d1ed299b3688e590db8d",
+    "/assets/icons/apple-touch-icon.png": "f42fca414a9e2d10c24d3f0d77cc456fe7ce685a",
+    "/assets/icons/favicon-16x16.png": "987b815db625fe7768263b502b8279caa3169fef",
+    "/assets/icons/favicon-32x32.png": "c96478495dd5e5778302d454030e04eb76484fca",
+    "/assets/icons/icon-128x128.png": "b9da559b7cc3dc9e35b4db6b34474688324f0c2f",
+    "/assets/icons/icon-144x144.png": "6fc1e2265b84bf2b24402489ceb033346224a1f7",
+    "/assets/icons/icon-152x152.png": "73b7ee4e2a13f6f9a7aea88c13518e7a924a8c99",
+    "/assets/icons/icon-192x192.png": "28fd1fad6f252a02ad36d4bc320ad179673a873a",
+    "/assets/icons/icon-384x384.png": "c2cceb543683373ed465a3e8bf5a6dc6155cf5f9",
+    "/assets/icons/icon-512x512.png": "9e9d45e5dc3ada5cf1f4f2e1fcc16b6789386250",
+    "/assets/icons/icon-72x72.png": "11867af0c9b24238e87ccbbb32e32a6f3b159824",
+    "/assets/icons/icon-96x96.png": "12f71e8edd9d7a8b1724dcc6a9d440683801d74f",
+    "/assets/icons/safari-pinned-tab.svg": "3e6ebfd85e431e848f46cdba82a0521e8005b5d4",
+    "/favicon.ico": "6feb0dc422fe7dc01fec09b35f3b2408ecb6a593",
+    "/index.html": "a281854389eba01ba9d35c3c9da2b71922a5e09f",
+    "/main.52b4abb9bd0e215f3c4a.js": "e08a82e29a971a39c5b012a8d14fe72274a43dc9",
+    "/polyfills-es5.122ced6d88ba6a6b350b.js": "934e86a8280c34ce3ce10f75db1de79822362f1e",
+    "/polyfills.2d938c2725dce5a6a7bb.js": "713b0aeade3e0fd2f4c5083eecbe64be2359d4c7",
+    "/runtime.56bceb7e23d9795a3898.js": "7adf856d14348365f776a1c1abaf0d3872dcca73",
+    "/styles.a9deb352a15098371639.css": "80653238a33e11223a87af4056f789bc3eb98ea0"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
